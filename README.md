@@ -2,12 +2,15 @@
 tikTacToe
 
 ## Description
-This project uses React to create a interactive gameboard to play the childhood classic, Tik-Tac-Toe
+This project uses React (JSX) to create an interactive gameboard to play Tik-Tac-Toe by updating state between parent and child components.
 
 ##Roadmap for Improvement
-Currently, only the "x" and "o" player indicator mark change color on the board, but onefunctionality imporvement could be to change the background color of the square when a player clicks it. Additional functionality could include the players being able to pick their square background color or the color of their marker. An additional imporvment could be that after the game has ended and a winner been announced, there could be a button that is enabled to restart/play another game. Currently, the functionality is only designed for when there is a winner of the game, so additional code could be added to handle a tied game. 
+Currently, only the "x" and "o" player indicator mark change color on the board, but one functionality imporvement could be to change the background color of the square when a player clicks it. Additional functionality could include the players being able to pick their square background color or the color of their marker. An additional improvement could be that after the game has ended and a winner has been announced, there could be a button that is enabled to restart/play another game. Currently, the functionality is only designed for when there is a winner of the game, so additional code could be added to handle a tied game. 
 
 ## Licensing Information 
+
+This code was produced for the MITxPro's Full Stack Developer Course.
+
 MIT License
 
 Copyright (c) 2020 John Williams
