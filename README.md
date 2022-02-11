@@ -34,8 +34,6 @@ This code was produced for the MITxPro's Full Stack Developer Course.
 
 MIT License
 
-Copyright (c) 2020 John Williams
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
