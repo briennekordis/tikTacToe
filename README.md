@@ -2,11 +2,11 @@
 tikTacToe
 
 ## Table of Contents 
-- Description & General Info
-- Languages & Technologies
-- Setup & Use
-- Suggestions for Improvement
-- Licensing Information
+- Description & General Info(https://github.com/briennekordis/tikTacToe#description--general-info)
+- Languages & Technologies(https://github.com/briennekordis/tikTacToe#languages--technologies)
+- Setup & Use(https://github.com/briennekordis/tikTacToe#setup--use)
+- Suggestions for Improvement()
+- Licensing Information(https://github.com/briennekordis/tikTacToe#licensing-information)
 
 
 ## Description & General Info
@@ -23,7 +23,7 @@ This project uses React (JSX) to create an interactive gameboard to play Tik-Tac
 3. Run `npm start` in your commmand line. (Make sure you have Node installed!) This should start the project in a new tab of your default broswer.
 4. Click on the tiles to play tik tac toe! 
 
-##Suggestions for Improvements
+## Suggestions for Improvements
 - Currently, only the "x" and "o" player indicator mark change color on the board, but one functionality imporvement could be to change the background color of the square when a player clicks it. Additional functionality could include the players being able to pick their square background color or the color of their marker. 
 - An additional improvement could be that after the game has ended and a winner has been announced, there could be a button that is enabled to restart/play another game. 
 - The current functionality is only designed for when there is a winner of the game, so additional code could be added to handle a tied game. 
