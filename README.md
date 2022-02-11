@@ -30,7 +30,7 @@ This project uses React (JSX) to create an interactive gameboard to play Tik-Tac
 
 ## Licensing Information 
 
-This code was produced for the MITxPro's Full Stack Developer Course.
+This code was written for the MITxPro's Full Stack Developer Course.
 
 MIT License
 
