@@ -2,11 +2,11 @@
 tikTacToe
 
 ## Table of Contents 
-- Description & General Info(https://github.com/briennekordis/tikTacToe#description--general-info)
-- Languages & Technologies(https://github.com/briennekordis/tikTacToe#languages--technologies)
-- Setup & Use(https://github.com/briennekordis/tikTacToe#setup--use)
-- Suggestions for Improvement()
-- Licensing Information(https://github.com/briennekordis/tikTacToe#licensing-information)
+- [Description & General Info](https://github.com/briennekordis/tikTacToe#description--general-info)
+- [Languages & Technologies](https://github.com/briennekordis/tikTacToe#languages--technologies)
+- [Setup & Use](https://github.com/briennekordis/tikTacToe#setup--use)
+- [Suggestions for Improvement](https://github.com/briennekordis/tikTacToe/blob/main/README.md#suggestions-for-improvements)
+- [Licensing Information](https://github.com/briennekordis/tikTacToe#licensing-information)
 
 
 ## Description & General Info
